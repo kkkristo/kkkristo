@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkkristo
 - 👀 I’m interested in C#, .NET and EntityFramework
-- 🌱 I’m currently learning C# and EntityFramework
+- 🌱 Fallin' in love with C# and EntityFramework
 - 💞️ I’m looking to collaborate on ... gosh, guess to early...
 - 📫 How to reach me ... looking into the sky
 
